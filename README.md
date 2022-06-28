@@ -8,7 +8,7 @@
 
 MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사이트의 이름으로 사용자에게 영화정보와 영화의 리뷰를 공유하는 커뮤니티 사이트입니다. `Vue.js` 와 `Django` 를 기반으로 제작하였습니다.
 
-![image-20211125143257186](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125143257186.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125143257186.png" alt="function">
 
 ### I. Who are we?
 
@@ -16,7 +16,9 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 >
 > BE : 구미 1반 박승원 
 
-![image-20211125144907905](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125144907905.png)
+
+
+<img src="pjt-Mcloud-back/README.assets/image-20211125144907905.png" alt="function">
 
 > 윤재성
 
@@ -30,7 +32,7 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 
 
-![image-20211125151550636](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125151550636.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125151550636.png" alt="function">
 
 
 
@@ -87,7 +89,9 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 ### III. 데이터베이스 모델링 (ERD)
 
-![ERD](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/ERD.png)
+<img src="pjt-Mcloud-back/README.assets/ERD.png" alt="function">
+
+
 
 
 
@@ -95,7 +99,7 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 > 회원가입/로그인/로그아웃
 
-![image-20211125160305791](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125160305791.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125160305791.png" alt="function">
 
 
 
@@ -106,9 +110,7 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 > 메인 페이지
 
-![image-20211125160514790](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125160514790.png)
-
-
+<img src="pjt-Mcloud-back/README.assets/image-20211125160514790.png" alt="function">
 
 - 네비게이션 바를 구현하여 사용자가 사이트를 이동할 수도 있지만, 메인 화면에서 사이트 로고와 함께 메뉴를 구현하여 사용자가 필요한 곳으로 이동할 수 있도록 구현하였습니다.
 
@@ -116,9 +118,9 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 > 영화 조회
 
-![image-20211125160715742](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125160715742.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125160715742.png" alt="function">
 
-![image-20211125162219072](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125162219072.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125162219072.png" alt="function">
 
 - 영화 전체를 조회할때 축약된 정보를 담고 있는 영화 카드를 이용하여 표현하였습니다.
 - 그 과정에서 페이지네이션을 이용해 페이지 별로 나누어 영화 정보를 전달하였습니다.
@@ -126,11 +128,9 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 
 
+<img src="pjt-Mcloud-back/README.assets/image-20211125160734848.png" alt="function">
 
-
-![image-20211125160734848](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125160734848.png)
-
-![image-20211125160746281](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125160746281.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125160746281.png" alt="function">
 
 
 
@@ -148,9 +148,9 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 
 
-![image-20211125165308211](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125165308211.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125165308211.png" alt="function">
 
-![image-20211125165402226](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125165402226.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125165402226.png" alt="function">
 
 - 리뷰 작성 시 어떤 영화에 대한 리뷰를 작성하는 지 현재 영화 목록을 이용하여 사용자에게 정확학 영화 제목을 받을 수 있도록 구현하였습니다.
 - 제목, 내용 등 정보가 충분하지 않으면 경고 메시지를 출력하였습니다.
@@ -159,7 +159,7 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 
 
-![image-20211125164101181](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125164101181.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125164101181.png" alt="function">
 
 - 리뷰 상세 조회에서는 상세 조회와 함께 해당 유저가 남긴 평점 등의 정보를 전달하였습니다.
 - 추가적으로 좋아요와 댓글 기능을 구현하여 사용자들 간의 커뮤니케이션이 될 수 있도록 하였습니다.
@@ -168,11 +168,9 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 
 
-![image-20211125165204298](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125165204298.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125165204298.png" alt="function">
 
-
-
-![image-20211125165225513](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125165225513.png)
+<img src="pjt-Mcloud-back/README.assets/image-20211125165225513.png" alt="function">
 
 - 리뷰 수정 또한 구현하였습니다.
 
@@ -182,7 +180,7 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 - 사용자가 좋아요 누른 영화를 바탕으로 가장 좋아하는 2개의 장르를 찾아 해당 영화들의 TMDB 기준 인기도가 높은 영화 상위 5개씩을 추출하고 현재 좋아요 누른 영화와 해당 영화들의 중복을 제거하여 사용자에게 추천하도록 구현하였습니다.
 
-![Recommand](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/Recommand.gif)
+<img src="pjt-Mcloud-back/README.assets/Recommand.gif" alt="function">
 
 - 표현할 때 입체감 있는 swiper를 활용하여 화면에 표현하였으며, 해당영화를 클릭시 영화의 상세페이지로 이동하도록 구현하였습니다.
 
@@ -190,7 +188,7 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 > 랜덤 박스
 
-![Randombox](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/Randombox-16378272727161.gif)
+<img src="pjt-Mcloud-back/README.assets/Randombox-16378272727161.gif" alt="function">
 
 - MCloud의 자랑, 영화들의 워드클라우드로 사용자가 관심있는 영화를 골라 추천하도록 하였습니다.
 - 각 워드클라우드를 3D Cube에 표현하여 사용자가 재미있게 옆으로 돌려가면서 영화를 고를 수 있도록 하였습니다.
@@ -200,12 +198,14 @@ MCloud는 `Movie`의 M과 `WordCloud`의 Cloud를 합성하여 만든 저희 사
 
 > 프로필
 
-![Profile](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/Profile.gif)
+<img src="pjt-Mcloud-back/README.assets/Profile.gif" alt="function">
 
 - 프로필에서는 사용자가 좋아요한 영화 목록과 리뷰작성을 기반으로 한 시청한 영화 목록을 보여줍니다.
 - 같은 영화에 여러개의 리뷰를 작성해도 중복을 제거하여 하나만 표시되도록 표현하였습니다.
 
-![image-20211125171203183](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/image-20211125171203183.png)
+
+
+<img src="pjt-Mcloud-back/README.assets/image-20211125171203183.png" alt="function">
 
 - 사용자가 작성한 리뷰의 목록도 표시해주었습니다.
 

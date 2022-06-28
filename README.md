@@ -2,7 +2,7 @@
 
 > By team. Ready-ofCourse (박승원, 윤재성)
 
-![Mcloud](C:/Users/Jaesung/Desktop/ssafy_6/pjt/project-Mcloud/pjt-Mcloud-back/README.assets/Mcloud.png)
+<img src="pjt-Mcloud-back/README.assets/Mcloud.png" alt="function">
 
 
 
